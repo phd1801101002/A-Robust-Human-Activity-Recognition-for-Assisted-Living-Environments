@@ -1,0 +1,8 @@
+This dataset is collected using depth sensor of KinectV2 device. Dataset contains 104 activity instances of 5 different activities. Each activity was performed
+by 6 different actors in two/three iterations. Each actor performed at least one of the activity in eight different variations (i.e., four angles, and four positions
+at varying distance). 
+
+Dataset depth data (.dat files) and skeleton data (.csv files). The naming used for files are as follows: 
+a01- Activity number (Ranging from 01 to 05, 01- Arm wave, 02- Hand Clap, 03- Forward Kick, 04- Walk, 05- Fall)
+s01- Actor number    (From 01 to 06, for six different actors)
+e01- Iteration number (From 01 to 03, for each activity, 04 to 10 for activity with variations) 
