@@ -1,1 +1,12 @@
+##########################################---------"Sample_images_five_activities.pdf"---------##############################################
+Sample JPD and BAD based Images of five activities in our prototype dataset are included in file "Sample_images_five_activities.pdf".
+Five activities are: a) Arm Wave; b) Hand Clap; c) Forward Kick; d) Walking; e) Falling, (in same order). JPD based images are shown in first rwo and the BAD based images are shown in second row of the file. 
+
+#################################--------"Sample_images_ArmWave_different distances and angles.pdf"---------#################################
+Sample JPD and BAD based images of HandWave activity from four different distances (4ft, 6ft, 8ft, and 10ft) and four angles (0, 30, 60, 90) are included in file "Sample_images_ArmWave_different distances and angles.pdf".
+Deoth frames are shown in first row, JPD based images are shown in second row, and the BAD based images are shown in third row of the file. 
+
+
+
+
 
